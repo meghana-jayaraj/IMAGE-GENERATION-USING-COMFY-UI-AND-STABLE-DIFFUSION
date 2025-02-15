@@ -82,8 +82,6 @@ Stable Diffusion is a cutting-edge deep learning model designed to generate high
 5. **Generate Image**: Execute the workflow to produce an image.
 6. **View and Save Output**: Review the generated image within ComfyUI and save it as needed.
 
----
 
-This README provides all essential information for setting up and using Stable Diffusion with ComfyUI. Feel free to update it with additional details or example images!
 
 
